@@ -1,0 +1,14 @@
+**/.dart_tool/
+**/build/
+**/.gradle/
+**/.cxx/
+**/.idea/
+**/ephemeral/
+**/.plugin_symlinks/
+**/.flutter-plugins-dependencies
+**/local.properties
+**/key.properties
+*.jks
+*.keystore
+*.iml
+*.log
